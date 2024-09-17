@@ -1,0 +1,31 @@
+
+Stock Name : AAPL
+Most recent closing price : 191.33
+Day before closing date : 192.46
+Percentage Change : -0.59 
+Timezone : US/Eastern
+    
+Id_Name : Finbold.com
+Author : Vahid Karaahmetovic
+Title : Stock expert Dan Ives expects Microsoft to join $3 trillion club in 2024
+Description : For years, Microsoft (NASDAQ: MSFT) has remained a steadfast blue-chip asset in the stock market, consistently generating reliable returns for … Continued
+The post Stock expert Dan Ives expects Microsoft to join $3 trillion club in 2024 appeared first on Finb…
+URL : https://finbold.com/stock-expert-dan-ives-expects-microsoft-to-join-3-trillion-club-in-2024/
+
+Id_Name : Barron's
+Author : Angela Palumbo
+Title : Microsoft to Join Apple in $3 Trillion Club by 2024, Analyst Says
+Description : Wedbush analyst Dan Ives believes that ChatGPT will be the "next leg of growth" for Microsoft.
+URL : https://www.barrons.com/articles/microsoft-stock-apple-3-trillion-market-cap-467b1d47
+
+Id_Name : Yahoo Entertainment
+Author : Anusuya Lahiri
+Title : What Can Drive TSMC's Revenue Rebound? Strong Demand for AI Chips from Nvidia, Broadcom, AMD
+Description : Taiwan Semiconductor Manufacturing Company Ltd (NYSE: TSM) expects a significant revenue rebound in the year's second half. The launch of new Apple Inc...
+URL : https://finance.yahoo.com/news/drive-tsmcs-revenue-rebound-strong-140921733.html
+
+Id_Name : Yahoo Entertainment
+Author : Anusuya Lahiri
+Title : Apple Loses Appeal Over 4G Patent Infringement in London Court, Optis Scores Another Victory
+Description : Apple Inc (NASDAQ: AAPL) overstepped two telecommunications patents used in devices, including iPhones and iPads, London's Court of Appeal ruled on Tuesday, ...
+URL : https://finance.yahoo.com/news/apple-loses-appeal-over-4g-140534098.html

@@ -1,0 +1,94 @@
+
+Stock Name : IBM
+Most recent closing price : 134.24 
+Id_Name : The Boston Globe
+Author : Alex Williams
+Title : Edward Fredkin, 88, MIT scientist who saw the universe as one big computer, dies
+Description : Professor Fredkin charged through an endlessly mutating career that could appear as mind-warping as the iconoclastic theories that made him a force in both computer science and physics.
+URL : https://www.bostonglobe.com/2023/07/04/metro/edward-fredkin-88-mit-scientist-who-saw-universe-one-big-computer-dies/
+    
+Stock Name : IBM
+Most recent closing price : 134.24 
+Id_Name : CNN Philippines
+Author : Catherine Thorbecke
+Title : AI is already linked to layoffs in the industry that created it
+Description : AI is already linked to layoffs in the industry that created itcnnphilippines.com
+URL : http://www.cnnphilippines.com/business/2023/7/5/AI-linked-to-layoffs-in-tech.html
+    
+Stock Name : IBM
+Most recent closing price : 134.24 
+Id_Name : Biztoc.com
+Author : nytimes.com
+Title : Lewis Branscomb, Champion of Science Across Fields, Dies at 96
+Description : The physicist Lewis Branscomb in 1968 in a laboratory at the Joint Institute for Laboratory Astrophysics, which he helped establish. He led scientific advances at I.B.M. and within the federal government during a career that spanned the space race and the daw…
+URL : https://biztoc.com/x/d642fbd385c859c4
+    
+Stock Name : IBM
+Most recent closing price : 134.24 
+Id_Name : PRNewswire
+Author : None
+Title : Australia Data Center Market to be Worth $9.49 billion by 2028, Get Insights on 136 Existing Data Centers & 22 Upcoming Facilities across Australia - Arizton
+Description : CHICAGO, July 4, 2023 /PRNewswire/ -- According to Arizton's latest research report, the Australia data center market to grow at a CAGR of 7.05% during 2022-2028. To Know More, Download the Free Sample Report: https://www.arizton.com/request-sample/3883 In Au…
+URL : https://www.prnewswire.com/news-releases/australia-data-center-market-to-be-worth-9-49-billion-by-2028--get-insights-on-136-existing-data-centers--22-upcoming-facilities-across-australia--arizton-301869616.html
+    
+Stock Name : IBM
+Most recent closing price : 134.24 
+Id_Name : The Boston Globe
+Author : Alex Williams
+Title : Edward Fredkin, 88, MIT scientist who saw the universe as one big computer, dies
+Description : Professor Fredkin charged through an endlessly mutating career that could appear as mind-warping as the iconoclastic theories that made him a force in both computer science and physics.
+URL : https://www.bostonglobe.com/2023/07/04/metro/edward-fredkin-88-mit-scientist-who-saw-universe-one-big-computer-dies/
+    
+Stock Name : IBM
+Most recent closing price : 134.24 
+Id_Name : CNN Philippines
+Author : Catherine Thorbecke
+Title : AI is already linked to layoffs in the industry that created it
+Description : AI is already linked to layoffs in the industry that created itcnnphilippines.com
+URL : http://www.cnnphilippines.com/business/2023/7/5/AI-linked-to-layoffs-in-tech.html
+    
+Stock Name : IBM
+Most recent closing price : 134.24 
+Id_Name : Biztoc.com
+Author : nytimes.com
+Title : Lewis Branscomb, Champion of Science Across Fields, Dies at 96
+Description : The physicist Lewis Branscomb in 1968 in a laboratory at the Joint Institute for Laboratory Astrophysics, which he helped establish. He led scientific advances at I.B.M. and within the federal government during a career that spanned the space race and the daw…
+URL : https://biztoc.com/x/d642fbd385c859c4
+    
+Stock Name : IBM
+Most recent closing price : 134.24 
+Id_Name : PRNewswire
+Author : None
+Title : Australia Data Center Market to be Worth $9.49 billion by 2028, Get Insights on 136 Existing Data Centers & 22 Upcoming Facilities across Australia - Arizton
+Description : CHICAGO, July 4, 2023 /PRNewswire/ -- According to Arizton's latest research report, the Australia data center market to grow at a CAGR of 7.05% during 2022-2028. To Know More, Download the Free Sample Report: https://www.arizton.com/request-sample/3883 In Au…
+URL : https://www.prnewswire.com/news-releases/australia-data-center-market-to-be-worth-9-49-billion-by-2028--get-insights-on-136-existing-data-centers--22-upcoming-facilities-across-australia--arizton-301869616.html
+    
+Stock Name : IBM
+Most recent closing price : 134.24
+Day before closing date : 133.67
+Percentage Change : (0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4, 0.007481110196753199, 4) 
+Timezone : US/Eastern
+    
+Id_Name : PRNewswire
+Author : None
+Title : United States Data Center Market Insights Report 2023-2028: Focus on Facility Type, Infrastructure, Cooling Systems, Cooling Technique, General Construction, and Tier Standards
+Description : DUBLIN, July 4, 2023 /PRNewswire/ -- The "US Data Center Market - Focused Insights 2023-2028" report has been added to ResearchAndMarkets.com's offering. The United States data center is projected to reach a value of $110.21 billion by 2028 from $89.31 billio…
+URL : https://www.prnewswire.com/news-releases/united-states-data-center-market-insights-report-2023-2028-focus-on-facility-type-infrastructure-cooling-systems-cooling-technique-general-construction-and-tier-standards-301869642.html
+
+Id_Name : PRNewswire
+Author : None
+Title : Global V2X Market to 2028: Combined 5G and Mobile Edge Computing Solutions to Accelerate Growth
+Description : DUBLIN, July 4, 2023 /PRNewswire/ -- The "V2X Market for Vehicle to Everything by Connection Type (Cellular and Non-cellular), Communications Type (V2V, V2I, V2P), Vehicle Autonomy Level, Safety and Commercial Applications 2023 - 2028" report has been added t…
+URL : https://www.prnewswire.com/news-releases/global-v2x-market-to-2028-combined-5g-and-mobile-edge-computing-solutions-to-accelerate-growth-301869638.html
+
+Id_Name : The Boston Globe
+Author : Alex Williams
+Title : Edward Fredkin, 88, MIT scientist who saw the universe as one big computer, dies
+Description : Professor Fredkin charged through an endlessly mutating career that could appear as mind-warping as the iconoclastic theories that made him a force in both computer science and physics.
+URL : https://www.bostonglobe.com/2023/07/04/metro/edward-fredkin-88-mit-scientist-who-saw-universe-one-big-computer-dies/
+
+Id_Name : CNN Philippines
+Author : Catherine Thorbecke
+Title : AI is already linked to layoffs in the industry that created it
+Description : AI is already linked to layoffs in the industry that created itcnnphilippines.com
+URL : http://www.cnnphilippines.com/business/2023/7/5/AI-linked-to-layoffs-in-tech.html

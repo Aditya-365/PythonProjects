@@ -1,0 +1,31 @@
+
+Stock Name : GOOGL
+Most recent closing price : 121.75
+Day before closing date : 119.9
+Percentage Change : 1.5429524603836482 
+Timezone : US/Eastern
+    
+Id_Name : Motley Fool Australia
+Author : Sebastian Bowen
+Title : Will Tesla stock regain its trillion-dollar market cap by 2025?
+Description : Will Tesla ever have a trillion-dollar valuation again?
+The post Will Tesla stock regain its trillion-dollar market cap by 2025? appeared first on The Motley Fool Australia.
+URL : https://www.fool.com.au/2023/07/05/will-tesla-stock-regain-its-trillion-dollar-market-cap-by-2025/
+
+Id_Name : Biztoc.com
+Author : theglobeandmail.com
+Title : Amazon, Google, Apple, Meta and Microsoft say they qualify as gatekeepers under new EU tech rules
+Description : Alphabet’s GOOGL-Q Google, Amazon AMZN-Q, Apple AAPL-Q, Meta Platforms META-Q and Microsoft MSFT-Q have notified the European Commission that they qualify as gatekeepers under new EU tech rules, EU industry chief Thierry Breton said on Tuesday. Under the Digi…
+URL : https://biztoc.com/x/d2598ee990f470d3
+
+Id_Name : MarketWatch
+Author : Barbara Kollmeyer
+Title : : Yahoo CEO says company will seek a public listing again: report
+Description : Yahoo's chief executive Jim Lanzone told the Financial Times that the Internet group is 'very profitable' and ready to return as a public company.
+URL : https://www.marketwatch.com/story/yahoo-ceo-says-company-will-seek-a-public-listing-again-report-9890a6c4
+
+Id_Name : MarketWatch
+Author : Barbara Kollmeyer
+Title : : Yahoo CEO says company will seek a public listing again: report
+Description : Yahoo's chief executive Jim Lanzone told the Financial Times that the Internet group is 'very profitable' and ready to return as a public company.
+URL : https://www.marketwatch.com/story/yahoo-ceo-says-company-will-seek-a-public-listing-again-report-9890a6c4

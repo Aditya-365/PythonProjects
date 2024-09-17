@@ -1,0 +1,30 @@
+
+Stock Name : ADBE
+Most recent closing price : 487.26
+Day before closing date : 485.21
+Percentage Change : 0.42 
+Timezone : US/Eastern
+    
+Id_Name : Motley Fool
+Author : newsfeedback@fool.com (Royston Yang)
+Title : Why Adobe's Stock Jumped 17% in June
+Description : The software company reported a sterling set of earnings as investors flocked to generative AI names.
+URL : https://www.fool.com/investing/2023/07/04/why-adobes-stock-jumped-17-in-june/
+
+Id_Name : MarketWatch
+Author : Christine Idzelis
+Title : The Tell: ETF focused on Jim Cramer stock picks surged in June, kicks off July with slight gains
+Description : The Long Cramer Tracker ETF, an actively managed fund that seeks to invest based on stock recommendations from CNBC’s Jim Cramer, surged in June.
+URL : https://www.marketwatch.com/story/etf-focused-on-jim-cramer-stock-picks-surged-in-june-kicks-off-july-with-slight-gains-30e86e
+
+Id_Name : Motley Fool
+Author : newsfeedback@fool.com (George Budwell)
+Title : Better Artificial Intelligence Stock: Adobe or Nvidia?
+Description : One of these top AI stocks offers better overall value for investors.
+URL : https://www.fool.com/investing/2023/07/03/better-artificial-intelligence-stock-adobe-or-nvid/
+
+Id_Name : Biztoc.com
+Author : marketbeat.com
+Title : Will Consumer Discretionary Continue Defying The Doubters In Q3?
+Description : Most investors are pretty up-to-speed on how the AI boom contributed to supersized gains in the tech sector in the second quarter. Heavily-weighted stocks such as Apple Inc. NASDAQ: AAPL, Microsoft Corp. NASDAQ: MSFT, Nvidia Corp. NASDAQ: NVDA, Broadcom Inc. …
+URL : https://biztoc.com/x/89169a62777a9c98

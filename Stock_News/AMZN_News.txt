@@ -1,0 +1,31 @@
+
+Stock Name : AMZN
+Most recent closing price : 130.38
+Day before closing date : 130.22
+Percentage Change : (0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4, 0.0, 4) 
+Timezone : US/Eastern
+    
+Id_Name : Motley Fool Australia
+Author : Sebastian Bowen
+Title : Will Tesla stock regain its trillion-dollar market cap by 2025?
+Description : Will Tesla ever have a trillion-dollar valuation again?
+The post Will Tesla stock regain its trillion-dollar market cap by 2025? appeared first on The Motley Fool Australia.
+URL : https://www.fool.com.au/2023/07/05/will-tesla-stock-regain-its-trillion-dollar-market-cap-by-2025/
+
+Id_Name : Biztoc.com
+Author : marketwatch.com
+Title : U.S. reportedly plans to restrict China’s access to cloud services. That could put Amazon and Microsoft in a bind
+Description : The Biden administration plans to curb China’s access to cloud computing services provided by companies such as Microsoft MSFT, and Amazon.com AMZN, , the Wall Street Journal reported Tuesday. Citing sources characterized as familiar with the situation, the r…
+URL : https://biztoc.com/x/f37ae7aeb1cb5333
+
+Id_Name : Biztoc.com
+Author : benzinga.com
+Title : US Set To Restrict China's Access To Cloud Computing Services From Amazon, Microsoft
+Description : The U.S. is preparing to restrict Chinese companies from accessing to U.S. cloud-computing services from Amazon.com, Inc AMZN and Microsoft Corp MSFT. What Happened: If the new rule is implemented, it would mandate U.S. cloud-service providers to obtain permi…
+URL : https://biztoc.com/x/8228fcfbefb510d9
+
+Id_Name : Biztoc.com
+Author : benzinga.com
+Title : Rivian Advances Into Europe With Amazon
+Description : What Happened: Over 300 Rivian vans will roll out in Germany in the coming weeks, e-commerce giant Amazon.com AMZN said in a statement. The vehicles will be hitting the roads of Munich, Berlin, and Dusseldorf. These vehicles are Rivian’s first in Europe. They…
+URL : https://biztoc.com/x/ea99011b5ac9d06a

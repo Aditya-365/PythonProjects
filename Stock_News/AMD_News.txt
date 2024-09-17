@@ -1,0 +1,31 @@
+
+Stock Name : AMD
+Most recent closing price : 113.95
+Day before closing date : 115.82
+Percentage Change : -1.61 
+Timezone : US/Eastern
+    
+Id_Name : Motley Fool
+Author : newsfeedback@fool.com (Dani Cook)
+Title : Better Buy: AMD vs. Nvidia
+Description : These companies are developing the hardware necessary to take AI to the next level.
+URL : https://www.fool.com/investing/2023/07/05/better-buy-amd-stock-vs-nvidia-stock/
+
+Id_Name : Yahoo Entertainment
+Author : Anusuya Lahiri
+Title : What Can Drive TSMC's Revenue Rebound? Strong Demand for AI Chips from Nvidia, Broadcom, AMD
+Description : Taiwan Semiconductor Manufacturing Company Ltd (NYSE: TSM) expects a significant revenue rebound in the year's second half. The launch of new Apple Inc...
+URL : https://finance.yahoo.com/news/drive-tsmcs-revenue-rebound-strong-140921733.html
+
+Id_Name : Yahoo Entertainment
+Author : The Fly
+Title : Netflix upgraded, Coinbase downgraded: Wall Street's top analyst calls
+Description : Netflix upgraded, Coinbase downgraded: Wall Street's top analyst calls
+URL : https://finance.yahoo.com/news/netflix-upgraded-coinbase-downgraded-wall-135947309.html
+
+Id_Name : Network World
+Author : Maria Korolov
+Title : 5 ways to boost server efficiency
+Description : Servers can consume more than half of the energy in modern data centers, which makes server efficiency attractive to companies looking to hit carbon-neutral sustainability targets. Plus, reducing energy usage can save money.
+To help reach that goal, here are…
+URL : https://www.networkworld.com/article/3701511/5-ways-to-boost-server-efficiency.html

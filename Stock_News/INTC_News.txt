@@ -1,0 +1,30 @@
+
+Stock Name : INTC
+Most recent closing price : 32.51
+Day before closing date : 33.62
+Percentage Change : -3.3 
+Timezone : US/Eastern
+    
+Id_Name : Investor's Business Daily
+Author : Investor's Business Daily
+Title : Marvell Stock: How Custom Data Center Chips Figure In AI Opportunity
+Description : MRVL stock has found technical support as analysts debate upside from custom AI chips used in data centers vs. other business trends.
+URL : https://www.investors.com/research/ibd-stock-of-the-day/mrvl-stock-how-custom-data-center-chips-figure-in-ai-opportunity/
+
+Id_Name : MarketWatch
+Author : Chris Matthews
+Title : Washington Watch: Yellen’s China trip: 3 key issues to watch
+Description : Treasury Secretary Yellen will travel to China this week in an attempt to repair a partnership that has frayed after years of political conflict and trade wars.
+URL : https://www.marketwatch.com/story/yellens-china-trip-3-key-issues-to-watch-c56b860f
+
+Id_Name : MarketWatch
+Author : James Rogers
+Title : : More than 212,000 global tech employees have lost their jobs since the start of 2023
+Description : Tech layoffs have gone up more than eightfold since mid-January, according to Layoffs.fyi.
+URL : https://www.marketwatch.com/story/more-than-212-000-global-tech-employees-have-lost-their-jobs-since-the-start-of-2023-e937219e
+
+Id_Name : Motley Fool
+Author : newsfeedback@fool.com (Leo Sun)
+Title : 3 Things About Micron Technology That Smart Investors Know
+Description : The American memory chipmaker still hasn't overcome its cyclical slowdown.
+URL : https://www.fool.com/investing/2023/07/03/3-things-about-micron-technology-that-smart-invest/
